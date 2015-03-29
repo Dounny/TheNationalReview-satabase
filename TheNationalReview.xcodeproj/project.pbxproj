@@ -51,25 +51,25 @@
 		BCF534B71AC7CD3100096A26 /* tabbarVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = tabbarVC.m; path = DataModel/tabbarVC.m; sourceTree = "<group>"; };
 		BCF534B81AC7CD3100096A26 /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RootViewController.h; path = DataModel/RootViewController.h; sourceTree = "<group>"; };
 		BCF534B91AC7CD3100096A26 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RootViewController.m; path = DataModel/RootViewController.m; sourceTree = "<group>"; };
-		BCF534BA1AC7CD3100096A26 /* FirstViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FirstViewController.h; path = DataModel/FirstViewController.h; sourceTree = "<group>"; };
-		BCF534BB1AC7CD3100096A26 /* FirstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FirstViewController.m; path = DataModel/FirstViewController.m; sourceTree = "<group>"; };
-		BCF534BC1AC7CD3100096A26 /* FirstViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = FirstViewController.xib; path = DataModel/FirstViewController.xib; sourceTree = "<group>"; };
-		BCF534BD1AC7CD3100096A26 /* SaleViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SaleViewController.h; path = DataModel/SaleViewController.h; sourceTree = "<group>"; };
-		BCF534BE1AC7CD3100096A26 /* SaleViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SaleViewController.m; path = DataModel/SaleViewController.m; sourceTree = "<group>"; };
-		BCF534BF1AC7CD3100096A26 /* SaleViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = SaleViewController.xib; path = DataModel/SaleViewController.xib; sourceTree = "<group>"; };
-		BCF534C01AC7CD3100096A26 /* FindViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FindViewController.h; path = DataModel/FindViewController.h; sourceTree = "<group>"; };
-		BCF534C11AC7CD3100096A26 /* FindViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FindViewController.m; path = DataModel/FindViewController.m; sourceTree = "<group>"; };
-		BCF534C21AC7CD3100096A26 /* FindViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = FindViewController.xib; path = DataModel/FindViewController.xib; sourceTree = "<group>"; };
-		BCF534C31AC7CD3100096A26 /* MyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MyViewController.h; path = DataModel/MyViewController.h; sourceTree = "<group>"; };
-		BCF534C41AC7CD3100096A26 /* MyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MyViewController.m; path = DataModel/MyViewController.m; sourceTree = "<group>"; };
-		BCF534C51AC7CD3100096A26 /* MyViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = MyViewController.xib; path = DataModel/MyViewController.xib; sourceTree = "<group>"; };
+		BCF534BA1AC7CD3100096A26 /* FirstViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FirstViewController.h; path = ../FirstViewController.h; sourceTree = "<group>"; };
+		BCF534BB1AC7CD3100096A26 /* FirstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FirstViewController.m; path = ../FirstViewController.m; sourceTree = "<group>"; };
+		BCF534BC1AC7CD3100096A26 /* FirstViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = FirstViewController.xib; path = ../FirstViewController.xib; sourceTree = "<group>"; };
+		BCF534BD1AC7CD3100096A26 /* SaleViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SaleViewController.h; path = ../SaleViewController.h; sourceTree = "<group>"; };
+		BCF534BE1AC7CD3100096A26 /* SaleViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SaleViewController.m; path = ../SaleViewController.m; sourceTree = "<group>"; };
+		BCF534BF1AC7CD3100096A26 /* SaleViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = SaleViewController.xib; path = ../SaleViewController.xib; sourceTree = "<group>"; };
+		BCF534C01AC7CD3100096A26 /* FindViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FindViewController.h; path = ../FindViewController.h; sourceTree = "<group>"; };
+		BCF534C11AC7CD3100096A26 /* FindViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FindViewController.m; path = ../FindViewController.m; sourceTree = "<group>"; };
+		BCF534C21AC7CD3100096A26 /* FindViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = FindViewController.xib; path = ../FindViewController.xib; sourceTree = "<group>"; };
+		BCF534C31AC7CD3100096A26 /* MyViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MyViewController.h; path = ../MyViewController.h; sourceTree = "<group>"; };
+		BCF534C41AC7CD3100096A26 /* MyViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MyViewController.m; path = ../MyViewController.m; sourceTree = "<group>"; };
+		BCF534C51AC7CD3100096A26 /* MyViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = MyViewController.xib; path = ../MyViewController.xib; sourceTree = "<group>"; };
 		BCF534D11AC7CD4100096A26 /* LDYButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LDYButton.h; path = ../DataModel/LDYButton.h; sourceTree = "<group>"; };
 		BCF534D21AC7CD4100096A26 /* LDYButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LDYButton.m; path = ../DataModel/LDYButton.m; sourceTree = "<group>"; };
 		BCFAB4411AC6960D00ADA59A /* TheNationalReview.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TheNationalReview.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BCFAB4451AC6960D00ADA59A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BCFAB4461AC6960D00ADA59A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		BCFAB44F1AC6960D00ADA59A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		BCFAB4511AC6960D00ADA59A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		BCFAB4511AC6960D00ADA59A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = TheNationalReview/Images.xcassets; sourceTree = "<group>"; };
 		BCFAB4541AC6960D00ADA59A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		BCFAB45A1AC6960D00ADA59A /* TheNationalReviewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TheNationalReviewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BCFAB45F1AC6960D00ADA59A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -120,11 +120,74 @@
 			path = Third;
 			sourceTree = "<group>";
 		};
+		BCF534D51AC7D46800096A26 /* 发现 */ = {
+			isa = PBXGroup;
+			children = (
+				BCF534C01AC7CD3100096A26 /* FindViewController.h */,
+				BCF534C11AC7CD3100096A26 /* FindViewController.m */,
+				BCF534C21AC7CD3100096A26 /* FindViewController.xib */,
+			);
+			name = "发现";
+			path = "DataModel/发现";
+			sourceTree = "<group>";
+		};
+		BCF534D61AC7D47200096A26 /* 首页 */ = {
+			isa = PBXGroup;
+			children = (
+				BCF534BA1AC7CD3100096A26 /* FirstViewController.h */,
+				BCF534BB1AC7CD3100096A26 /* FirstViewController.m */,
+				BCF534BC1AC7CD3100096A26 /* FirstViewController.xib */,
+			);
+			name = "首页";
+			path = "DataModel/首页";
+			sourceTree = "<group>";
+		};
+		BCF534D71AC7D47800096A26 /* 团购 */ = {
+			isa = PBXGroup;
+			children = (
+				BCF534BD1AC7CD3100096A26 /* SaleViewController.h */,
+				BCF534BE1AC7CD3100096A26 /* SaleViewController.m */,
+				BCF534BF1AC7CD3100096A26 /* SaleViewController.xib */,
+			);
+			name = "团购";
+			path = "DataModel/团购";
+			sourceTree = "<group>";
+		};
+		BCF534D81AC7D47D00096A26 /* 我的 */ = {
+			isa = PBXGroup;
+			children = (
+				BCF534C31AC7CD3100096A26 /* MyViewController.h */,
+				BCF534C41AC7CD3100096A26 /* MyViewController.m */,
+				BCF534C51AC7CD3100096A26 /* MyViewController.xib */,
+			);
+			name = "我的";
+			path = "DataModel/我的";
+			sourceTree = "<group>";
+		};
+		BCF534D91AC7D49500096A26 /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Cells;
+			path = DataModel/Cells;
+			sourceTree = "<group>";
+		};
+		BCF534DA1AC7D49B00096A26 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Models;
+			path = DataModel/Models;
+			sourceTree = "<group>";
+		};
 		BCFAB4381AC6960D00ADA59A = {
 			isa = PBXGroup;
 			children = (
 				BCFAB4811AC6981600ADA59A /* libsqlite3.dylib */,
 				BCFAB4431AC6960D00ADA59A /* TheNationalReview */,
+				BCFAB44E1AC6960D00ADA59A /* Main.storyboard */,
+				BCFAB4511AC6960D00ADA59A /* Images.xcassets */,
+				BCFAB4531AC6960D00ADA59A /* LaunchScreen.xib */,
 				BCFAB45D1AC6960D00ADA59A /* TheNationalReviewTests */,
 				BCFAB4421AC6960D00ADA59A /* Products */,
 			);
@@ -144,27 +207,14 @@
 			children = (
 				BCF534D41AC7CDAB00096A26 /* Third */,
 				BCFAB46A1AC6965400ADA59A /* DataModel */,
-				BCF534B41AC7CD3100096A26 /* AppDelegate.h */,
-				BCF534B51AC7CD3100096A26 /* AppDelegate.m */,
-				BCF534B61AC7CD3100096A26 /* tabbarVC.h */,
-				BCF534B71AC7CD3100096A26 /* tabbarVC.m */,
+				BCF534DA1AC7D49B00096A26 /* Models */,
+				BCF534D91AC7D49500096A26 /* Cells */,
 				BCF534B81AC7CD3100096A26 /* RootViewController.h */,
 				BCF534B91AC7CD3100096A26 /* RootViewController.m */,
-				BCF534BA1AC7CD3100096A26 /* FirstViewController.h */,
-				BCF534BB1AC7CD3100096A26 /* FirstViewController.m */,
-				BCF534BC1AC7CD3100096A26 /* FirstViewController.xib */,
-				BCF534BD1AC7CD3100096A26 /* SaleViewController.h */,
-				BCF534BE1AC7CD3100096A26 /* SaleViewController.m */,
-				BCF534BF1AC7CD3100096A26 /* SaleViewController.xib */,
-				BCF534C01AC7CD3100096A26 /* FindViewController.h */,
-				BCF534C11AC7CD3100096A26 /* FindViewController.m */,
-				BCF534C21AC7CD3100096A26 /* FindViewController.xib */,
-				BCF534C31AC7CD3100096A26 /* MyViewController.h */,
-				BCF534C41AC7CD3100096A26 /* MyViewController.m */,
-				BCF534C51AC7CD3100096A26 /* MyViewController.xib */,
-				BCFAB44E1AC6960D00ADA59A /* Main.storyboard */,
-				BCFAB4511AC6960D00ADA59A /* Images.xcassets */,
-				BCFAB4531AC6960D00ADA59A /* LaunchScreen.xib */,
+				BCF534D61AC7D47200096A26 /* 首页 */,
+				BCF534D71AC7D47800096A26 /* 团购 */,
+				BCF534D51AC7D46800096A26 /* 发现 */,
+				BCF534D81AC7D47D00096A26 /* 我的 */,
 				BCFAB4441AC6960D00ADA59A /* Supporting Files */,
 			);
 			path = TheNationalReview;
@@ -173,6 +223,10 @@
 		BCFAB4441AC6960D00ADA59A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				BCF534B41AC7CD3100096A26 /* AppDelegate.h */,
+				BCF534B51AC7CD3100096A26 /* AppDelegate.m */,
+				BCF534B61AC7CD3100096A26 /* tabbarVC.h */,
+				BCF534B71AC7CD3100096A26 /* tabbarVC.m */,
 				BCFAB4451AC6960D00ADA59A /* Info.plist */,
 				BCFAB4461AC6960D00ADA59A /* main.m */,
 			);
@@ -373,6 +427,7 @@
 				BCFAB44F1AC6960D00ADA59A /* Base */,
 			);
 			name = Main.storyboard;
+			path = TheNationalReview;
 			sourceTree = "<group>";
 		};
 		BCFAB4531AC6960D00ADA59A /* LaunchScreen.xib */ = {
@@ -381,6 +436,7 @@
 				BCFAB4541AC6960D00ADA59A /* Base */,
 			);
 			name = LaunchScreen.xib;
+			path = TheNationalReview;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */

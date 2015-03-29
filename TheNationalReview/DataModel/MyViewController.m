@@ -23,9 +23,14 @@
 //    UIView *view = [[UIView alloc] init];
 //    view.frame =
 //    UIBarButtonItem *item = [UIBarButtonItem alloc] initWithCustomView:
-    UIBarButtonItem *helpItem = [[UIBarButtonItem alloc] initWithTitle:@"帮助" style:UIBarButtonItemStyleDone target:self action:@selector(click_help)];
     
+    UIBarButtonItem *helpItem = [[UIBarButtonItem alloc] initWithTitle:@"帮助" style:UIBarButtonItemStyleDone target:self action:@selector(click_help)];
+    helpItem.tintColor = [UIColor orangeColor];
     self.navigationItem.rightBarButtonItem = helpItem;
+}
+
+- (void)click_help{
+    
 }
 
 - (void)didReceiveMemoryWarning {
